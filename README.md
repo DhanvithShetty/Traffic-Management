@@ -9,7 +9,8 @@
 ### Install all the Requirements
   pip install -r requirements.txt
   
-### Run the Code and add the video for detection (--weights <PATH OF THE WEIGHT>  --source <PATH OF THE VIDEO OR IMG FILE>)
+### Run the Code and add the video for detection (--weights (PATH OF THE WEIGHT)  --source (PATH OF THE VIDEO OR IMG FILE))
+
   python detect_and_count.py --weights /yolov7/yolov7.pt --conf 0.1 --source //yolov7/inference/video.mp4
   
 ### Find the Output in the figure folder inside yolov7
