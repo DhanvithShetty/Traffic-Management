@@ -1,3 +1,3 @@
 # Traffic-Management
 
-### Fllow the comments on the .ipynb file
+### Follow the comments on the .ipynb file
